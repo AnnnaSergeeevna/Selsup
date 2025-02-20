@@ -1,2 +1,0 @@
-# Selsup
-Testing task 
